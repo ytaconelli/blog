@@ -1,0 +1,35 @@
+        *{
+            font-family: sans-serif;
+        }
+        form{
+            width: 550px;
+            margin: auto;
+            border: 2px solid #cccccc;
+            padding: 1em;
+            border-radius: 5px;
+        }
+        form div{
+            margin-top: 1em;
+        }
+
+        label{
+            display: inline-block;
+            width: 100px;
+            text-align: right;
+        }
+        input{
+            width: 400px;
+            border: 2px solid #cccccc;
+            background-color: white;
+            height: 27px;
+            border-radius: 5px;
+        }
+
+        h1{
+            color: red;
+            text-align: center;
+        }
+        input#enviar{
+            width: 300px;
+            margin-left: 150px;
+        }

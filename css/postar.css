@@ -1,0 +1,36 @@
+.post{
+    display:flex;
+    flex-wrap:wrap;
+    flex-direction: column;
+    justify-content: left;
+    align-items: left;
+    margin: auto;
+    width:530px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.texto{
+    width:500px; 
+    height:250px;
+}
+
+.titulo{
+    width: 500px;
+    height: 25px;
+}
+
+h1{
+    text-align: center;
+    color: red;
+}
+#btn{
+    width: 500px;
+    border: 1px solid #cccccc;
+    background-color: white;
+    height: 27px;
+    border-radius: 5px;
+}
+
+footer{
+    text-align: center;
+}
